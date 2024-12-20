@@ -38,6 +38,10 @@ git clone https://github.com/BelgaregMohamedAmine/Amazon-Sales-Analysis
 2. Open the Power BI files (.pbix) in Power BI Desktop.
 3. Explore the dashboards and modify them as needed.
 
+## 🔗 Accéder au rapport interactif Power BI
+[👉 Cliquez ici pour visualiser le rapport Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmM0MDY3NjktNGZhZS00YTAxLTg5OWEtYmVlYTIzMTVmYTk2IiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9)
+
+
 ### Contact
 For questions or feedback:
 - **Email:** belgaregmohamedamine@outlook.fr
