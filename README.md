@@ -23,7 +23,7 @@ This repository contains a comprehensive Power BI project analyzing Amazon sales
 ![Products Dashboard](img/products_dashboard.png)
 ![Products Dashboard](img/products_dashboard_tooltips.png)
 #### 3. Product View Dashboard
-![Product View Dashboard](img/to/product_view_dashboard.png)
+![Product View Dashboard](img/product_view_dashboard.png)
 
 ### Project Links
 - **Power BI Service:** [Amazon Sales Dashboard](https://app.powerbi.com/links/ZP7ZwUIRhv?ctid=dbd6664d-4eb9-46eb-99d8-5c43ba153c61&pbi_source=linkShare&bookmarkGuid=19e5c552-6998-4429-a65b-3c0cd4f87214)
