@@ -32,7 +32,7 @@ This repository contains a comprehensive Power BI project analyzing Amazon sales
 ### How to Use
 1. Clone the repository:
    ```bash
-  git clone https://github.com/BelgaregMohamedAmine/Amazon-Sales-Analysis
+  git clone https://github.com/BelgaregMohamedAmine/Amazon-Sales-Analysis.git
    ```
 2. Open the Power BI files (.pbix) in Power BI Desktop.
 3. Explore the dashboards and modify them as needed.
